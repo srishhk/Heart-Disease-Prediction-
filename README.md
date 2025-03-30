@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction
+# HeartDiseasePrediction
 This project explores how AI and data-driven models can assist in early detection, providing valuable insights for healthcare professionals and patients alike.
 
 ✨ What This Project Does
