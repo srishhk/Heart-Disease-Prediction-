@@ -3,8 +3,11 @@ This project explores how AI and data-driven models can assist in early detectio
 
 ✨ What This Project Does
 Predicts Heart Disease Risk – Based on key health indicators like blood pressure, cholesterol, age, and more.
+
 Machine Learning Models – Trained and tested multiple algorithms to find the most accurate predictor.
+
 User-Friendly Interface – Built with Streamlit for easy interaction and real-time predictions.
+
 Data-Driven Insights – Helps in understanding how different health factors contribute to heart disease.
 
 🛠️ Tech Stack
