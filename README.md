@@ -13,8 +13,11 @@ Data-Driven Insights – Helps in understanding how different health factors con
 🛠️ Tech Stack
 Python – The backbone of the project.
 Pandas & NumPy – For data preprocessing and manipulation.
+
 Scikit-Learn – Used for training and evaluating ML models.
+
 Matplotlib & Seaborn – To visualize important patterns in data.
+
 Streamlit – For deploying an interactive and accessible web app.
 
 🚀 How to Use
